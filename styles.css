@@ -1,6 +1,10 @@
 .top-row, .first-row {
-    background-color: #1F2937;
     color: white;
+    margin: 0;
+}
+
+.top {
+    background-color: #1F2937;
 }
 
 .top-row {
